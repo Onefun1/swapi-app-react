@@ -1,14 +1,13 @@
 {
-  "main.css": "/swapi-app-react/static/css/main.13e480e6.chunk.css",
-  "main.js": "/swapi-app-react/static/js/main.210f4182.chunk.js",
-  "main.js.map": "/swapi-app-react/static/js/main.210f4182.chunk.js.map",
+  "main.css": "/swapi-app-react/static/css/main.df2147f6.chunk.css",
+  "main.js": "/swapi-app-react/static/js/main.0dc0efe1.chunk.js",
+  "main.js.map": "/swapi-app-react/static/js/main.0dc0efe1.chunk.js.map",
   "runtime~main.js": "/swapi-app-react/static/js/runtime~main.5b4569a0.js",
   "runtime~main.js.map": "/swapi-app-react/static/js/runtime~main.5b4569a0.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/swapi-app-react/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/swapi-app-react/static/js/2.8f71a45e.chunk.js.map",
+  "static/js/2.f99ede00.chunk.js": "/swapi-app-react/static/js/2.f99ede00.chunk.js",
+  "static/js/2.f99ede00.chunk.js.map": "/swapi-app-react/static/js/2.f99ede00.chunk.js.map",
   "index.html": "/swapi-app-react/index.html",
-  "precache-manifest.ae7f19bfda99f868a04cd446d387b8b1.js": "/swapi-app-react/precache-manifest.ae7f19bfda99f868a04cd446d387b8b1.js",
+  "precache-manifest.3721fa40e36ae9aae31dc5ff70a0e910.js": "/swapi-app-react/precache-manifest.3721fa40e36ae9aae31dc5ff70a0e910.js",
   "service-worker.js": "/swapi-app-react/service-worker.js",
-  "static/css/main.13e480e6.chunk.css.map": "/swapi-app-react/static/css/main.13e480e6.chunk.css.map",
-  "static/media/logo.svg": "/swapi-app-react/static/media/logo.5d5d9eef.svg"
+  "static/css/main.df2147f6.chunk.css.map": "/swapi-app-react/static/css/main.df2147f6.chunk.css.map"
 }
