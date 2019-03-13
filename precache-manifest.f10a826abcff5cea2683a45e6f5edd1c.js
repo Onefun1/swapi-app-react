@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/swapi-app-react/static/css/main.df2147f6.chunk.css"
   },
   {
-    "revision": "a03b1f69181358a6da99b7ce2da18bca",
+    "revision": "b846767c0f5d1cb33145699aefb57725",
     "url": "/swapi-app-react/index.html"
   }
 ];
