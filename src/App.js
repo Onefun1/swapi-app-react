@@ -8,6 +8,9 @@ import CategoryPage from './CategoryPage'
 
 
 import './App.css';
+const allowedCategories = [
+  'people2', 'films', 'starships'
+]
 
 class App extends Component {
   render() {
@@ -23,7 +26,7 @@ class App extends Component {
             <Route exact path="/" component={HomePage}/>
             <Route exact path="/people" component={PeoplePage}/>
             <Route exact path="/films" component={FilmsPage}/>
-            <Route exact path="/category" component={CategoryPage}/>
+            <Route exact path={`/:category(${allowedCategories.join('|')})`} component={CategoryPage}/>
             <Route render={() => <h1>Page not found</h1>}/>
           </Switch>
           </section>  
