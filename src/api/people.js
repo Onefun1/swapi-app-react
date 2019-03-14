@@ -3,7 +3,7 @@ import { get } from './_helper';
 
 export const getAll = () => {
    return get('/people')
-   .then(data => data.results)
+//    .then(data => data.results)
 };
 
 
